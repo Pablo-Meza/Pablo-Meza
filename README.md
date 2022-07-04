@@ -1,7 +1,7 @@
 ### console.log("Hello word")... 👋
 Mi nombre es Pablo Meza, este es un repositorio nuevo, donde quiero dejar de forma mas ordenada los contenidos que tengo para ofrecer, soy desarrollador de software, me estoy formando academicamente en la universidad, con el lenguaje python como lenguaje base.Comence y sigo siendo bastante autodidacta, me gusta desarrollar para el ambiente web, maquetar paginas, mi lenguaje favorito es JavaScript, uso un poco de ReactJS, Boostrap, y estoy aprendiendo a
 utilizar NodeJS. Tengo experiencia laboral desarrollando software, allí adquirí experiencia utilizando bases de datos relacionales con SQL Server. Por otra
-parte uso particularmente para mis desarrollos MySql, me gusta aprender y poder aplicar creatividad. A continuacion dejo algo de lo que fui desarrollando.
+parte uso particularmente para mis desarrollos MySql, me gusta aprender y poder aplicar creatividad. A continuacion dejo algo de lo que fui desarrollando.               
 -aquí encontraran un juego de black-jack hecho por mi: https://pablodev2020.github.io/
 <!--
 **Pablo-Meza/Pablo-Meza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
